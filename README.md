@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/discord/1058994816446369832?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
   </a>
 </p>
-
+！！！原教程地址https://blog.csdn.net/qq_36306519/article/details/128344232
 > 在微信上迅速接入 ChatGPT，让它成为你最好的助手！  
 > [English](README.md) | 中文文档
 
